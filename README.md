@@ -1,4 +1,4 @@
-1. Create README.md
+🔹 1. Create README.md
 
 In your project folder (~/PycharmProjects/DDOS), create a file named README.md with this content:
 
@@ -12,7 +12,7 @@ It is not intended for real DoS/DDoS use.
 
 ---
 
-##  How to Run
+## 🚀 How to Run
 
 Start a local HTTP server in the project folder:
 ```bash
@@ -32,7 +32,7 @@ Example output:
 Done. Successful requests: 10182
 Elapsed: 5.01s | Approx. 2032.8 req/s | Threads: 10 | Target: 127.0.0.1:8000
 
- CLI Options
+🔧 CLI Options
 
 --target (default 127.0.0.1)
 
@@ -44,7 +44,7 @@ Elapsed: 5.01s | Approx. 2032.8 req/s | Threads: 10 | Target: 127.0.0.1:8000
 
 --sleep delay between requests (default 0.003)
 
- Concepts Learned
+📚 Concepts Learned
 
 Python socket programming
 
@@ -54,7 +54,7 @@ Simple load-testing against a local server
 
 Command-line interfaces with argparse
 
- Example Use Case
+✅ Example Use Case
 
 Educational demonstration for network programming
 
